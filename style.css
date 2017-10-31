@@ -1,3 +1,14 @@
 body {
-	background-color: #EEE;
+    background-image: url("pictures/background7.jpg");
+    
+}
+
+#tempsRestant {
+	font-size: 10em;
+	text-align: center;
+	text-shadow: 2px 2px white;
+	color: #FA00D4;
+	position: relative;	
+	top: 150px;
+	width: 	100%;
 }
